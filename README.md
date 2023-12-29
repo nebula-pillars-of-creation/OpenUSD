@@ -2,6 +2,10 @@
 
 **Description:**
 
+![Build](https://github.com/nebula-pillars-of-creation/OpenUSD/actions/workflows/deploy.yml/badge.svg)
+
+[OpenUSD Documentation](https://nebula-pillars-of-creation.github.io/OpenUSD/overview.html)
+
 Welcome to the OpenUSD Resource and Exploration Repository, a dedicated space for 3D artists, developers, and enthusiasts to learn and share knowledge about Universal Scene Description (USD). This repository serves as a comprehensive guide for understanding and implementing OpenUSD, the open-source aspect of USD, which is revolutionizing the way we create, share, and collaborate on complex 3D scenes and animations.
 
 ## What's Inside:
