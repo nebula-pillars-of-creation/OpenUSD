@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<buildprofiles>
+    <variables>
+        <primary-color>aqua</primary-color>
+        <header-logo>https://openusd.org/images/USDLogoUnsized.svg</header-logo>
+        <product-web-url>https://openusd.org/release/index.html#</product-web-url>
+        <custom-favicons>https://openusd.org/images/USDLogoUnsized.svg</custom-favicons>
+    </variables>
+    <footer>
+        <copyright>Gishant Singh 2023</copyright>
+        <social type="blog" href=""></social>
+    </footer>
+</buildprofiles>
