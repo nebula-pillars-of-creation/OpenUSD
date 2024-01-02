@@ -5,5 +5,10 @@
 <instance-profile id="doc-python" name="OpenUSD"
                   start-page="Overview.md">
 
-    <toc-element topic="Overview.md"/>
+    <toc-element topic="Overview.md">
+        <toc-element topic="Playground.md"/>
+        <toc-element topic="Examples.md">
+            <toc-element topic="A-Simple-Sphere.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>
