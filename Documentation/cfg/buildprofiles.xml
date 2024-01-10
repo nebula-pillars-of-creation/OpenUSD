@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<buildprofiles>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
         <primary-color>aqua</primary-color>
         <header-logo>https://openusd.org/images/USDLogoUnsized.svg</header-logo>
         <product-web-url>https://openusd.org/release/index.html#</product-web-url>
         <custom-favicons>https://openusd.org/images/USDLogoUnsized.svg</custom-favicons>
+        <!--    Algolia    -->
+        <algolia-id>DKGQSVDD8T</algolia-id>
+        <algolia-index>prod_OpenUSD</algolia-index>
+        <algolia-api-key>77b3637c86cb207448fed2135cd04cfd</algolia-api-key>
+        <web-root>https://some.domain</web-root>
     </variables>
+    <build-profile instance="doc-openusd"/>
     <footer>
         <copyright>Gishant Singh 2023</copyright>
         <social type="blog" href=""></social>
