@@ -90,7 +90,6 @@ jobs:
       ALGOLIA_APP_NAME: DKGQSVDD8T
       ALGOLIA_INDEX_NAME: prod_RUST
       ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
-      ALGOLIA_ARTIFACT: algolia-indexes-HI.zip
       CONFIG_JSON_PRODUCT: doc-openusd
       CONFIG_JSON_VERSION: 2.0
 
@@ -110,7 +109,6 @@ jobs:
           --version ${{env.CONFIG_JSON_VERSION}} \
           --index-directory algolia-indexes/ \
           2>&1 | tee algolia-update-index-log.txt
-
 
   deploy:
     environment:
