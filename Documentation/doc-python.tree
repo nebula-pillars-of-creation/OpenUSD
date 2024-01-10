@@ -11,4 +11,60 @@
             <toc-element topic="A-Simple-Sphere.md"/>
         </toc-element>
     </toc-element>
+    <toc-element topic="Environment-SEtup.md">
+        <toc-element topic="Installin.md"/>
+        <toc-element topic="Editors.md"/>
+    </toc-element>
+    <toc-element topic="Understanding-USD.md">
+        <toc-element topic="Core-Concepts.md"/>
+        <toc-element topic="USD-File-Formats.md"/>
+        <toc-element topic="Layering-And-Overrides.md"/>
+    </toc-element>
+    <toc-element topic="Working-with-Prims.md">
+        <toc-element topic="Creating-And-Modifying-Prims.md"/>
+        <toc-element topic="Common-Types-Of-Prims.md"/>
+    </toc-element>
+    <toc-element topic="Attributes-And-Metadata.md">
+        <toc-element topic="Understanding-Attributes.md"/>
+        <toc-element topic="Metadata-USD.md"/>
+    </toc-element>
+    <toc-element topic="References-And-Payloads.md">
+        <toc-element topic="Using-References.md"/>
+        <toc-element topic="Working-with-Payloads.md"/>
+    </toc-element>
+    <toc-element topic="Composition-And-Layering.md">
+        <toc-element topic="Composition-Arcs.md"/>
+        <toc-element topic="Layering-Strategies.md"/>
+    </toc-element>
+    <toc-element topic="Variant-Sets-And-Variants.md">
+        <toc-element topic="Creating-Variant-Sets.md"/>
+        <toc-element topic="Switching-between-Variants.md"/>
+    </toc-element>
+    <toc-element topic="Iteroperability.md">
+        <toc-element topic="USD-in-Different-Applications.md"/>
+        <toc-element topic="Converting-between-Formats.md"/>
+    </toc-element>
+    <toc-element topic="Advanced-Authoring.md">
+        <toc-element topic="Advanced-Layering-and-Overrides.md"/>
+        <toc-element topic="Custom-Prims-and-Schemas.md"/>
+    </toc-element>
+    <toc-element topic="Performance-Optimization.md">
+        <toc-element topic="Working-with-Large-Scenes.md"/>
+        <toc-element topic="Profiling-and-Optimization.md"/>
+    </toc-element>
+    <toc-element topic="Scripting-And-Automation.md">
+        <toc-element topic="USD-Python-API.md"/>
+        <toc-element topic="Common-Scripting-Tools.md"/>
+    </toc-element>
+    <toc-element topic="Rendering-with-USD.md">
+        <toc-element topic="Hydra-and-USD.md"/>
+        <toc-element topic="Render-Delegates.md"/>
+    </toc-element>
+    <toc-element topic="Case-Studies-And-Practical-Applications.md">
+        <toc-element topic="USD-in-Pipeline-Integration.md"/>
+        <toc-element topic="Real-World-Use-Cases.md"/>
+    </toc-element>
+    <toc-element topic="Projects-And-Exercises.md"/>
+    <toc-element topic="Further-Learning.md"/>
+    <toc-element topic="Future-Of-OpenUSD.md"/>
 </instance-profile>
