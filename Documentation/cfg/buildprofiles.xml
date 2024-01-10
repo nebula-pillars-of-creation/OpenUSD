@@ -7,6 +7,7 @@
         <header-logo>https://openusd.org/images/USDLogoUnsized.svg</header-logo>
         <product-web-url>https://openusd.org/release/index.html#</product-web-url>
         <custom-favicons>https://openusd.org/images/USDLogoUnsized.svg</custom-favicons>
+        <noindex-content>false</noindex-content>
         <!--    Algolia    -->
         <algolia-id>DKGQSVDD8T</algolia-id>
         <algolia-index>prod_OpenUSD</algolia-index>
